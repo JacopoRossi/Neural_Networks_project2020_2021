@@ -7,4 +7,4 @@ Reimplementation of [DACL](https://paperswithcode.com/paper/facial-expression-re
 * Jacopo Rossi 1801667
 * Giacomo Venneri 1810169
 
-It's possible executing the code using Google Colab
+It's possible executing the code using Google Colab.
